@@ -1,6 +1,6 @@
 # PC Part Price Scraper
 
-The scraper goes through different websites and extracts product names, prices and image URIs then stores the information in a local MongoDB database (Database not convered in the repo)
+The scraper goes through different websites and extracts product names, prices and image URIs then stores the information in a local MongoDB database (Database not included in the repo)
 
 ## Environment
 [Node.js](https://nodejs.org/en/download/)
