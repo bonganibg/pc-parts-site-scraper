@@ -45,7 +45,7 @@ const axios = require('axios');
                     await page.goto(url);                
                                     
         
-                    // search filters that can only appear fater page number
+                    // search filters that can only appear after page number
                     if (search.filter !== undefined)
                         url = url + search.filter;
                         
