@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.26.0",
+    "log4js": "^6.4.2",
+    "puppeteer": "^13.5.0",
+    "winston": "^3.6.0"
+  }
+}
