@@ -12,8 +12,9 @@ The MVP of the project has been reached and new features are being added to the 
 
 ## Packages
 
-* [Puppeteer]()
-* [Axios]()
+* [Puppeteer](https://www.npmjs.com/package/puppeteer)
+* [Axios](https://www.npmjs.com/package/axios)
+* [Log4js](https://www.npmjs.com/package/log4js)
 
 ## Setup
 ### Clone Repo
